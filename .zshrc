@@ -288,4 +288,4 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 # Starship prompt
-# eval "$(starship init zsh)"
+eval "$(starship init zsh)"
