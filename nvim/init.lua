@@ -1,0 +1,5 @@
+require "0vim.options"
+require "0vim.keymaps"
+require "0vim.plugins"
+require "0vim.gitsigns"
+require "0vim.comment"
